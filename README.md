@@ -2,11 +2,15 @@ DevOps Experiments  ( III B.Tech - I SEM )
 ------------------------------------------
 
 Course Objectives:
+------------------
+
 	Develop a sustainable infrastructure for applications and ensure high
 	scalability. DevOps aims to shorten the software development lifecycle to
 	provide continuous delivery with high-quality.
 
 Course Outcomes:
+----------------
+
 	1. Understand the need of DevOps tools
 
 	2. Understand the environment for a software application development
@@ -16,6 +20,8 @@ Course Outcomes:
 	4. Use Selenium tool for automated testing of application
 
 List of Experiments:
+--------------------
+
 	1. Write code for a simple user registration form for an event.
 
 	2. Explore Git and GitHub commands.
