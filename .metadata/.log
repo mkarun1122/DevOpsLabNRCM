@@ -255,3 +255,18 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2025-11-25 00:24:14.297
 !MESSAGE [1;33mParameter '[0;1;33marchive[0;1;33m' is unknown for plugin '[0;1;33mmaven-compiler-plugin[0;1;33m:[0;1;33m3.8.1[0;1;33m:[0;1;33mtestCompile[0;1;33m ([0;1;33mdefault-testCompile[0;1;33m)[0;1;33m'[m
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-11-25 00:26:10.658
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-11-25 00:26:10.673
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jdt.core 4 964 2025-11-25 00:26:12.348
+!MESSAGE Cannot nest 'demoCICDLab1/src/main/resources' inside 'demoCICDLab1/src'. To enable the nesting exclude 'main/' from 'demoCICDLab1/src'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-11-25 00:26:12.554
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-11-25 00:26:12.560
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!

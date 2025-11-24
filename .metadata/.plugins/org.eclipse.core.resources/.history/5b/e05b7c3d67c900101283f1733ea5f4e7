@@ -10,7 +10,11 @@
         <artifactId>maven-compiler-plugin</artifactId>
         <version>3.8.1</version>
         <configuration>
-          <release>17</release>
+          <archive>
+                    <manifest>
+                        <mainClass>com.example.MainClass</mainClass>
+                    </manifest>
+                </archive>
         </configuration>
       </plugin>
     </plugins>
